@@ -47,6 +47,13 @@ Monitor the logs for captured IP addresses and login credentials.
 ##Acknowledgements
 
 Phishdoom is inspired by the need for education in cybersecurity and ethical hacking. Always strive to use your skills responsibly.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- **ALHARAMM** - [GitHub Profile](https://github.com/ALHARAMM)
 
 Copyright: © @ALHARAM
 Version: v2.3
